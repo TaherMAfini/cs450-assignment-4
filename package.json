@@ -1,7 +1,7 @@
 {
-  "name": "assignment-4",
+  "name": "d3-app-1",
   "version": "0.1.0",
-  "homepage": "https://tahermafini.github.io/cs450-assignment-4",
+  "homepage": "https://tahermafini.github.io/d3-app-1",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.16.7",
