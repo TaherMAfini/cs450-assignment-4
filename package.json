@@ -1,7 +1,7 @@
 {
   "name": "assignment-4",
   "version": "0.1.0",
-  "homepage": "https://TaherMAfini.github.io/cs450-assignment-4",
+  "homepage": "https://tahermafini.github.io/cs450-assignment-4",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
